@@ -2,6 +2,8 @@
 title: Dafta privacy policy
 ---
 
+# Dafta privacy policy
+
 Last updated: 19 November 2026
 
 Dafta is an Android app that reads your mobile money payment messages and shows them as a list by day and by person. It is made by Vicorp Solutions.
